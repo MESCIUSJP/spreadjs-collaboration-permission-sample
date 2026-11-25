@@ -59,4 +59,4 @@ localhost で動かす場合、ライセンスキーは不要です（評価版�
 
 ## 参考
 
-- [SpreadJS 共同編集 | 製品ヘルプ](https://demo.mescius.jp/spreadjs/docs/spreadjs-collaboration-server)
+- [製品ヘルプ](https://demo.mescius.jp/spreadjs/docs/spreadjs-collaboration-server)
