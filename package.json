@@ -1,0 +1,31 @@
+{
+  "name": "spread-collaboration",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@mescius/js-collaboration": "^19.2.6",
+    "@mescius/js-collaboration-client": "^19.2.6",
+    "@mescius/js-collaboration-ot": "^19.2.6",
+    "@mescius/js-collaboration-ot-client": "^19.2.6",
+    "@mescius/js-collaboration-ot-sqlite": "^19.2.6",
+    "@mescius/js-collaboration-presence": "^19.2.6",
+    "@mescius/js-collaboration-presence-client": "^19.2.6",
+    "@mescius/spread-sheets": "^19.2.6",
+    "@mescius/spread-sheets-collaboration": "^19.2.6",
+    "@mescius/spread-sheets-collaboration-addon": "^19.2.6",
+    "@mescius/spread-sheets-collaboration-client": "^19.2.6",
+    "@mescius/spread-sheets-resources-ja": "^19.2.6",
+    "express": "^5.3.0",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.5",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.112.2",
+    "webpack-cli": "^7.3.1"
+  }
+}

@@ -1,0 +1,21 @@
+node_modules/
+
+# webpack のビルド出力（ライセンスキーや SpreadJS 本体が含まれるため除外）
+public/index.js
+public/iframe.js
+
+# SQLite データベース
+*.db
+*.sqlite
+*.sqlite3
+
+# ログ・環境ファイル
+npm-debug.log*
+.env
+.env.*
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
